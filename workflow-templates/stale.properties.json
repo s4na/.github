@@ -1,5 +1,5 @@
 {
   "name": "Fog Org Stale Workflow",
   "description": "Check for stale issues and pull requests",
-  "iconName": "octicon clock",
+  "iconName": "octicon clock"
 }

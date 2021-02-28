@@ -1,5 +1,5 @@
 {
   "name": "Fog Org Ruby CI Workflow",
   "description": "Build and test Ruby with Rake",
-  "iconName": "octicon ruby",
+  "iconName": "octicon ruby"
 }
